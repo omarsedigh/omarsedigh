@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @omarsedigh
+- 👋 Hi, I’m Omar Sedigh
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Frontend Web Development
 - 💞️ I’m looking to collaborate on Projects
