@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Omar Sedigh
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Frontend Web Development
-- 💞️ I’m looking to collaborate on Projects
+- 💞️ I’m looking to collaborate on Your Projects
 - 📫 How to reach me omarssedigh@gmail.com
 
 <!---
