@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Frontend Web Development
 - 💞️ I’m looking to collaborate on Your Projects
-- 📫 How to reach me omarssedigh@gmail.com
+- 📫 You can reach me omarssedigh@gmail.com
 
 <!---
 omarsedigh/omarsedigh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
